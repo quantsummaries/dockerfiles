@@ -1,2 +1,2 @@
 # Dockerfiles
-playground for dockerfiles
+Playground for dockerfiles.
